@@ -1,14 +1,13 @@
 package Books;
 
 public class Author {
-    private String name;
-    private String surname;
+    private final String name;
+    private final String surname;
 
     public Author(String name, String surname) {
         this.name = name;
         this.surname = surname;
     }
-
     public String getName() {
         return this.name;
     }
