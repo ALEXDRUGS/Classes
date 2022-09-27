@@ -1,6 +1,7 @@
 package Books;
 
 public class Main {
+
     public static void main(String[] args) {
         Book book = new Book("Анна Каренина", 2000);
         Author author = new Author("Лев", "Толстой");

@@ -1,5 +1,6 @@
 package Books;
 
+
 public class Book {
     private String bookName;
     private int yearRelease;
@@ -16,6 +17,7 @@ public class Book {
     public int getYearRelease() {
         return this.yearRelease;
     }
+
 
     public void setYearRelease(int yearRelease) {
         this.yearRelease = yearRelease;

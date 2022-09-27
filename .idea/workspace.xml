@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc89c247-52c9-44c9-ab59-ffbd8ad3e76a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Books/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Books/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Books/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Books/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Books/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Books/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Books/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Books/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664228329827</updated>
       <workItem from="1664228332418" duration="2323000" />
-      <workItem from="1664274822641" duration="10934000" />
+      <workItem from="1664274822641" duration="11390000" />
     </task>
     <task id="LOCAL-00001" summary="classes">
       <created>1664228413911</created>
@@ -73,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664228413911</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="объекты и классы">
+      <created>1664286560602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664286560602</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="classes" />
+    <MESSAGE value="объекты и классы" />
+    <option name="LAST_COMMIT_MESSAGE" value="объекты и классы" />
   </component>
 </project>
