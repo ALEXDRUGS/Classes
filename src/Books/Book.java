@@ -3,11 +3,12 @@ package Books;
 public class Book {
     private final String bookName;
     private int yearRelease;
-    private final String author;
-    public Book(String bookName, int yearRelease, String author) {
+    private final Author author;
+    public Book(String bookName, int yearRelease, Author author) {
         this.bookName = bookName;
         this.yearRelease = yearRelease;
         this.author = author;
+
     }
 
     public String getBookName() {
@@ -18,7 +19,7 @@ public class Book {
         return this.yearRelease;
     }
 
-    public String getAuthor() {
+    public Author getAuthor() {
         return this.author;
     }
 
