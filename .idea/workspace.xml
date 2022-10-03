@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bc89c247-52c9-44c9-ab59-ffbd8ad3e76a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Books/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Books/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Books/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Books/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/books/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/books/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Books/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/books/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Alex/IdeaProjects/TasksOfIncreasedComplexity"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/IdeaProjects/Classes&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Books.Main" />
+      <option name="MAIN_CLASS_NAME" value="books.Main" />
       <module name="Classes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,6 +71,8 @@
       <workItem from="1664274822641" duration="12181000" />
       <workItem from="1664312861250" duration="6043000" />
       <workItem from="1664374951813" duration="6907000" />
+      <workItem from="1664738916032" duration="6976000" />
+      <workItem from="1664790911890" duration="1788000" />
     </task>
     <task id="LOCAL-00001" summary="classes">
       <created>1664228413911</created>
