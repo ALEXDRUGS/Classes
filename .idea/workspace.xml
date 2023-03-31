@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc89c247-52c9-44c9-ab59-ffbd8ad3e76a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Books/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Books/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Books/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Books/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Books/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Books/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/books/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Books/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/books/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Books/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/books/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -30,17 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/IdeaProjects/Classes&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Books.Main" />
+      <option name="MAIN_CLASS_NAME" value="books.Main" />
       <module name="Classes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,7 +68,11 @@
       <option name="presentableId" value="Default" />
       <updated>1664228329827</updated>
       <workItem from="1664228332418" duration="2323000" />
-      <workItem from="1664274822641" duration="11390000" />
+      <workItem from="1664274822641" duration="12181000" />
+      <workItem from="1664312861250" duration="6043000" />
+      <workItem from="1664374951813" duration="6907000" />
+      <workItem from="1664738916032" duration="6976000" />
+      <workItem from="1664790911890" duration="1788000" />
     </task>
     <task id="LOCAL-00001" summary="classes">
       <created>1664228413911</created>
@@ -77,7 +88,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664286560602</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="объекты и классы пулл реквест">
+      <created>1664286957039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664286957039</updated>
+    </task>
+    <task id="LOCAL-00004" summary="объекты и классы пулл реквест">
+      <created>1664287132068</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664287132068</updated>
+    </task>
+    <task id="LOCAL-00005" summary="объекты и классы пулл реквест">
+      <created>1664316263230</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664316263230</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="classes" />
     <MESSAGE value="объекты и классы" />
-    <option name="LAST_COMMIT_MESSAGE" value="объекты и классы" />
+    <MESSAGE value="объекты и классы пулл реквест" />
+    <option name="LAST_COMMIT_MESSAGE" value="объекты и классы пулл реквест" />
   </component>
 </project>
